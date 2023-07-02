@@ -1,0 +1,12 @@
+# pycache
+__pycache__/
+
+# notebooks
+*.ipynb
+
+# other directories
+data/
+pics/
+
+# vscode
+.DS_Store
