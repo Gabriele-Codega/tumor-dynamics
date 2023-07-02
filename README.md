@@ -1,4 +1,4 @@
-# Tumor dynamcis
+# Tumor dynamics
 This code implements some utilities to study the stochastic dynamics of the interaction between a tumor and immune system in presence of chemotherapy.
 
 The model is implemented according to what proposed in [this paper](https://www.sciencedirect.com/science/article/pii/S0378437123003904?via%3Dihub) (which in turn is an extension of the model proposed by [Kuznetsov et al.](https://doi.org/10.1016/S0092-8240(05)80260-5)).
